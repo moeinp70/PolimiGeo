@@ -1,0 +1,123 @@
+VARIABILE_INDICATORE,DEFINIZIONE_INDICATORE,DEFINITIONS,FONTE,ANNO_DI_RIFERIMENTO
+cod_rip,Codice Macro-area Geografica,Macro-Geographical Area Code,ISTAT,2021
+cod_reg,Codice Regione,Region Code,ISTAT,2021
+cod_prov,Codice Provincia,Province Code,ISTAT,2021
+pro_com,Codice ProCom del Comune,ProCom Code of the Municipality,ISTAT,2021
+regione,Nome della Regione,Name of the Region,ISTAT,2021
+provincia,Nome della Provincia,Name of the Province,ISTAT,2021
+comune,Nome del Comune,Name of the Municipality,ISTAT,2021
+nome,Denominazione dell'estensione territoriale ,Name of the territorial extension,ISTAT,2021
+ar_kmq,Territorio (kmq),Territory (km2),ISTAT,2021
+ar_id_p3,Superficie delle aree a pericolosità idraulica elevata (kmq),Surface area of areas with high flood risk (km2),ISPRA,2020
+ar_id_p2,Superficie delle aree a pericolosità idraulica media (kmq),Surface area of areas with medium flood risk (km2),ISPRA,2020
+ar_id_p1,Superficie delle aree a pericolosità idraulica bassa (kmq),Surface area of low flood risk areas (km2),ISPRA,2020
+aridp3_p,Superficie delle aree a pericolosità idraulica elevata (%),Surface area of areas with high flood risk (%),ISPRA,2020
+aridp2_p,Superficie delle aree a pericolosità idraulica media (%),Surface area of areas with medium flood risk (%),ISPRA,2020
+aridp1_p,Superficie delle aree a pericolosità idraulica bassa (%),Surface area of areas with low flood risk (%),ISPRA,2020
+pop_res011,Popolazione residente - Censimento 2011 (n. ab.),Resident population - 2011 Census (no. of inhabitants),ISTAT,2011
+pop_idr_p3,Popolazione a rischio in aree a pericolosità idraulica elevata (n. ab.),Population at  high flood risk (no. of inhabitants),ISPRA,2020
+pop_idr_p2,Popolazione a rischio in aree a pericolosità idraulica media (n. ab.),Population at  medium flood risk (no. of inhabitants),ISPRA,2020
+pop_idr_p1,Popolazione a rischio in aree a pericolosità idraulica bassa (n. ab.),Population at  low flood risk (no. of inhabitants),ISPRA,2020
+popidp3_p,Popolazione a rischio in aree a pericolosità idraulica elevata (%),Population at  high flood risk (%),ISPRA,2020
+popidp2_p,Popolazione a rischio in aree a pericolosità idraulica media (%),Population at  medium flood risk (%),ISPRA,2020
+popidp1_p,Popolazione a rischio in aree a pericolosità idraulica bassa (%),Population at  low flood risk (%),ISPRA,2020
+fam_tot,Famiglie - Censimento 2011 (n.),Families - 2011 Census (n.),ISTAT,2011
+fam_idr_p3,Famiglie a rischio in aree a pericolosità idraulica elevata (n.),Families at  high flood risk (n.),ISPRA,2020
+fam_idr_p2,Famiglie a rischio in aree a pericolosità idraulica media (n.),Families at  medium flood risk (n.),ISPRA,2020
+fam_idr_p1,Famiglie a rischio in aree a pericolosità idraulica bassa (n.),Families at  low flood risk (n.),ISPRA,2020
+famidp3_p,Famiglie a rischio in aree a pericolosità idraulica elevata (%),Families at  high flood risk (%),ISPRA,2020
+famidp2_p,Famiglie a rischio in aree a pericolosità idraulica media (%),Families at  medium flood risk (%),ISPRA,2020
+famidp1_p,Famiglie a rischio in aree a pericolosità idraulica bassa (%),Families at  low flood risk (%),ISPRA,2020
+ed_tot,Edifici - Censimento 2011 (n.),Buildings - 2011 Census (n.),ISTAT,2011
+ed_idr_p3,Edifici a rischio in aree a pericolosità idraulica elevata (n.),Buildings at  high flood risk (n.),ISPRA,2020
+ed_idr_p2,Edifici a rischio in aree a pericolosità idraulica media (n.),Buildings at  medium flood risk (n.),ISPRA,2020
+ed_idr_p1,Edifici a rischio in aree a pericolosità idraulica bassa (n.),Buildings at  low flood risk (n.),ISPRA,2020
+edidp3_p,Edifici a rischio in aree a pericolosità idraulica elevata (%),Buildings at  high flood risk (%),ISPRA,2020
+edidp2_p,Edifici a rischio in aree a pericolosità idraulica media (%),Buildings at  medium flood risk (%),ISPRA,2020
+edidp1_p,Edifici a rischio in aree a pericolosità idraulica bassa (%),Buildings at  low flood risk (%),ISPRA,2020
+im_tot,Unità locali d'imprese - Censimento 2011 (n.),Local business units - 2011 Census (n.),ISTAT,2011
+im_idr_p3,Unità locali d'imprese a rischio in aree a pericolosità idraulica elevata (n.),Local business units at  high flood risk (n.),ISPRA,2020
+im_idr_p2,Unità locali d'imprese a rischio in aree a pericolosità idraulica media (n.),Local business units at  medium flood risk (n.),ISPRA,2020
+im_idr_p1,Unità locali d'imprese a rischio in aree a pericolosità idraulica bassa (n.),Local business units at  low flood risk (n.),ISPRA,2020
+imidp3_p,Unità locali d'imprese a rischio in aree a pericolosità idraulica elevata (%),Local business units at  high flood risk (%),ISPRA,2020
+imidp2_p,Unità locali d'imprese a rischio in aree a pericolosità idraulica media (%),Local business units at  medium flood risk (%),ISPRA,2020
+imidp1_p,Unità locali d'imprese a rischio in aree a pericolosità idraulica bassa (%),Local business units at  low flood risk (%),ISPRA,2020
+n_vir,Beni culturali - Vincoli in Rete VIR (n.),Cultural heritage - Constraints on the VIR Network (n.),ISCR,2021
+bbcc_id_p3,Beni culturali a rischio in aree a pericolosità idraulica elevata (n.),Cultural heritage at  high flood risk (n.),ISPRA,2020
+bbcc_id_p2,Beni culturali a rischio in aree a pericolosità idraulica media (n.),Cultural heritage at  medium flood risk (n.),ISPRA,2020
+bbcc_id_p1,Beni culturali a rischio in aree a pericolosità idraulica bassa (n.),Cultural heritage at  low flood risk (n.),ISPRA,2020
+bbccidp3_p,Beni culturali a rischio in aree a pericolosità idraulica elevata (%),Cultural heritage at  high flood risk (%),ISPRA,2020
+bbccidp2_p,Beni culturali a rischio in aree a pericolosità idraulica media (%),Cultural heritage at  medium flood risk (%),ISPRA,2020
+bbccidp1_p,Beni culturali a rischio in aree a pericolosità idraulica bassa (%),Cultural heritage at  low flood risk (%),ISPRA,2020
+ar_fr_p4,Superficie delle aree a pericolosità da frana molto elevata P4 (kmq),Surface area of areas with very high landslide risk P4 (km2),ISPRA,2020
+ar_fr_p3,Superficie delle aree a pericolosità da frana elevata P3 (kmq),Surface area of areas with high landslide risk P3 (km2),ISPRA,2020
+ar_fr_p2,Superficie delle aree a pericolosità da frana media P2 (kmq),Surface area of average landslide risk areas P2 (km2),ISPRA,2020
+ar_fr_p1,Superficie delle aree a pericolosità da frana moderata P1 (kmq),Surface area of areas with moderate landslide risk P1 (km2),ISPRA,2020
+ar_fr_aa,Superficie delle aree di attenzione AA (kmq),Surface area of AA attention areas (km2),ISPRA,2020
+ar_fr_p3p4,Superficie delle aree a pericolosità da frana molto elevata e molto elevata (P4 + P3) (kmq),Surface area of areas with very high and very high landslide risk (P4 + P3) (km2),ISPRA,2020
+ar_frp4_p,Superficie delle aree a pericolosità da frana molto elevata P4 (%),Surface area of areas with very high landslide risk P4 (%),ISPRA,2020
+ar_frp3_p,Superficie delle aree a pericolosità da frana elevata P3 (%),Surface area of areas with high landslide risk P3 (%),ISPRA,2020
+ar_frp2_p,Superficie delle aree a pericolosità da frana media P2 (%),Surface area of areas with medium landslide risk P2 (%),ISPRA,2020
+ar_frp1_p,Superficie delle aree a pericolosità da frana moderata P1 (%),Surface area of areas with moderate landslide risk P1 (%),ISPRA,2020
+ar_fraa_p,Superficie delle aree di attenzione AA (%),Surface area of AA attention areas (%),ISPRA,2020
+ar_frp3p4p,Superficie delle aree a pericolosità da frana molto elevata e molto elevata (P4 + P3) (%),Surface area of areas with very high and very high landslide risk (P4 + P3) (%),ISPRA,2020
+pop_fr_p4,Popolazione a rischio in aree a pericolosità da frana molto elevata P4 (n. ab.),Population at  very high landslide risk P4 (no. of inhabitants),ISPRA,2020
+pop_fr_p3,Popolazione a rischio in aree a pericolosità da frana elevata P3 (n. ab.),Population at  high landslide risk P3 (no. of inhabitants),ISPRA,2020
+pop_fr_p2,Popolazione a rischio in aree a pericolosità da frana media P2 (n. ab.),Population at  medium landslide risk P2 (no. of inhabitants),ISPRA,2020
+pop_fr_p1,Popolazione a rischio in aree a pericolosità da frana moderata P1 (n. ab.),Population at  moderate landslide risk P1 (no. of inhabitants),ISPRA,2020
+pop_fr_aa,Popolazione a rischio in aree di attenzione AA (n. ab.),Population at risk in AA attention areas (no. of inhabitants),ISPRA,2020
+popfr_p3p4,Popolazione a rischio in aree a pericolosità da frana molto elevata e molto elevata (P4 + P3) (n. ab.),Population at  very high and very high landslide risk (P4 + P3) (no. of inhabitants),ISPRA,2020
+popfrp4_p,Popolazione a rischio in aree a pericolosità da frana molto elevata P4 (%),Population at  very high landslide risk P4 (%),ISPRA,2020
+popfrp3_p,Popolazione a rischio in aree a pericolosità da frana elevata P3 (%),Population at  high landslide risk P3 (%),ISPRA,2020
+popfrp2_p,Popolazione a rischio in aree a pericolosità da frana media P2 (%),Population at  medium landslide risk P2 (%),ISPRA,2020
+popfrp1_p,Popolazione a rischio in aree a pericolosità da frana moderata P1 (%),Population at  moderate landslide risk P1 (%),ISPRA,2020
+popfraa_p,Popolazione a rischio in aree di attenzione AA (%),Population at risk in AA focus areas (%),ISPRA,2020
+popfrp3p4p,Popolazione a rischio in aree a pericolosità da frana molto elevata e molto elevata (P4 + P3) (%),Population at  very high and very high landslide risk (P4 + P3) (%),ISPRA,2020
+fam_fr_p4,Famiglie a rischio in aree a pericolosità da frana molto elevata P4 (n.),Families at  very high landslide risk P4 (n.),ISPRA,2020
+fam_fr_p3,Famiglie a rischio in aree a pericolosità da frana elevata P3 (n.),Families at  high landslide risk P3 (n.),ISPRA,2020
+fam_fr_p2,Famiglie a rischio in aree a pericolosità da frana media P2 (n.),Families at  medium landslide risk P2 (n.),ISPRA,2020
+fam_fr_p1,Famiglie a rischio in aree a pericolosità da frana moderata P1 (n.),Families at  moderate landslide risk P1 (n.),ISPRA,2020
+fam_fr_aa,Famiglie a rischio in aree di attenzione AA (n.),Families at risk in AA attention areas (n.),ISPRA,2020
+famfr_p3p4,Famiglie a rischio in aree a pericolosità da frana molto elevata e molto elevata (P4 + P3) (n.),Families at  very high and very high landslide risk (P4 + P3) (n.),ISPRA,2020
+famfrp4_p,Famiglie a rischio in aree a pericolosità da frana molto elevata P4 (%),Families at risk in landslide-prone areas,ISPRA,2020
+famfrp3_p,Famiglie a rischio in aree a pericolosità da frana elevata P3 (%),Families at risk in areas with high landslide risk P3 (%),ISPRA,2020
+famfrp2_p,Famiglie a rischio in aree a pericolosità da frana media P2 (%),Families at risk in areas with medium landslide risk P2 (%),ISPRA,2020
+famfrp1_p,Famiglie a rischio in aree a pericolosità da frana moderata P1 (%),Families at risk in areas with moderate landslide risk P1 (%),ISPRA,2020
+famfraa_p,Famiglie a rischio in aree di attenzione AA (%),Families at risk in AA attention areas (%),ISPRA,2020
+famfrp3p4p,Famiglie a rischio in aree a pericolosità da frana molto elevata e molto elevata (P4 + P3) (%),Families at risk in areas with very high and very high landslide risk (P4 + P3) (%),ISPRA,2020
+ed_fr_p4,Edifici a rischio in aree a pericolosità da frana molto elevata P4 (n.),Buildings at risk in areas with very high landslide risk P4 (n.),ISPRA,2020
+ed_fr_p3,Edifici a rischio in aree a pericolosità da frana elevata P3 (n.),Buildings at risk in areas with high landslide risk P3 (n.),ISPRA,2020
+ed_fr_p2,Edifici a rischio in aree a pericolosità da frana media P2 (n.),Buildings at risk in areas with medium landslide risk P2 (n.),ISPRA,2020
+ed_fr_p1,Edifici a rischio in aree a pericolosità da frana moderata P1 (n.),Buildings at risk in areas with moderate landslide risk P1 (n.),ISPRA,2020
+ed_fr_aa,Edifici a rischio in aree di attenzione AA (n.),Buildings at risk in AA attention areas (n.),ISPRA,2020
+ed_fr_p3p4,Edifici a rischio in aree a pericolosità da frana molto elevata e molto elevata (P4 + P3) (n.),Buildings at risk in areas with very high and very high landslide risk (P4 + P3) (n.),ISPRA,2020
+edfrp4_p,Edifici a rischio in aree a pericolosità da frana molto elevata P4 (%),Buildings at risk in areas with very high landslide risk P4 (%),ISPRA,2020
+edfrp3_p,Edifici a rischio in aree a pericolosità da frana elevata P3 (%),Buildings at risk in areas with high landslide risk P3 (%),ISPRA,2020
+edfrp2_p,Edifici a rischio in aree a pericolosità da frana media P2 (%),Buildings at risk in areas with medium landslide risk P2 (%),ISPRA,2020
+edfrp1_p,Edifici a rischio in aree a pericolosità da frana moderata P1 (%),Buildings at risk in areas with moderate landslide risk P1 (%),ISPRA,2020
+edfraa_p,Edifici a rischio in aree di attenzione AA (%),Buildings at risk in AA attention areas (%),ISPRA,2020
+edfrp3p4p,Edifici a rischio in aree a pericolosità da frana molto elevata e molto elevata (P4 + P3) (%),Buildings at risk in areas with very high and very high landslide risk (P4 + P3) (%),ISPRA,2020
+im_fr_p4,Unità locali d'imprese a rischio in aree a pericolosità da frana molto elevata P4 (n.),Local business units at risk in areas with very high landslide risk P4 (n.),ISPRA,2020
+im_fr_p3,Unità locali d'imprese a rischio in aree a pericolosità da frana elevata P3 (n.),Local business units at risk in areas with high landslide risk P3 (n.),ISPRA,2020
+im_fr_p2,Unità locali d'imprese a rischio in aree a pericolosità da frana media P2 (n.),Local business units at risk in areas with medium landslide risk P2 (n.),ISPRA,2020
+im_fr_p1,Unità locali d'imprese a rischio in aree a pericolosità da frana moderata P1 (n.),Local business units at risk in areas with moderate landslide risk P1 (n.),ISPRA,2020
+im_fr_aa,Unità locali d'imprese a rischio in aree di attenzione AA (n.),Local business units at risk in AA attention areas (n.),ISPRA,2020
+imfr_p3p4,Unità locali d'imprese a rischio in aree a pericolosità da frana molto elevata e molto elevata (P4 + P3) (n.),Local business units at risk in areas with very high and very high landslide risk (P4 + P3) (n.),ISPRA,2020
+imfrp4_p,Unità locali d'imprese a rischio in aree a pericolosità da frana molto elevata P4 (%),Local business units at risk in areas with very high landslide risk P4 (%),ISPRA,2020
+imfrp3_p,Unità locali d'imprese a rischio in aree a pericolosità da frana elevata P3 (%),Local business units at risk in areas with high landslide risk P3 (%),ISPRA,2020
+imfrp2_p,Unità locali d'imprese a rischio in aree a pericolosità da frana media P2 (%),Local business units at risk in areas with medium landslide risk P2 (%),ISPRA,2020
+imfrp1_p,Unità locali d'imprese a rischio in aree a pericolosità da frana moderata P1 (%),Local business units at risk in areas with moderate landslide risk P1 (%),ISPRA,2020
+imfraa_p,Unità locali d'imprese a rischio in aree di attenzione AA (%),Local business units at risk in AA attention areas (%),ISPRA,2020
+imfrp3p4p,Unità locali d'imprese a rischio in aree a pericolosità da frana molto elevata e molto elevata (P4 + P3) (%),Local business units at risk in areas with very high and very high landslide risk (P4 + P3) (%),ISPRA,2020
+bbcc_fr_p4,Beni culturali a rischio in aree a pericolosità da frana molto elevata P4 (n.),Cultural heritage at risk in areas with very high landslide risk P4 (n.),ISPRA,2020
+bbcc_fr_p3,Beni culturali a rischio in aree a pericolosità da frana elevata P3 (n.),Cultural heritage at risk in areas with high landslide risk P3 (n.),ISPRA,2020
+bbcc_fr_p2,Beni culturali a rischio in aree a pericolosità da frana media P2 (n.),Cultural heritage at risk in medium landslide risk areas P2 (n.),ISPRA,2020
+bbcc_fr_p1,Beni culturali a rischio in aree a pericolosità da frana moderata P1 (n.),Cultural heritage at risk in areas with moderate landslide risk P1 (n.),ISPRA,2020
+bbcc_fr_aa,Beni culturali a rischio in aree di attenzione AA (n.),Cultural heritage at risk in areas of AA attention (n.),ISPRA,2020
+bbccfrp3p4,Beni culturali a rischio in aree a pericolosità da frana molto elevata e molto elevata (P4 + P3) (n.),Cultural heritage at risk in areas with very high and very high landslide risk (P4 + P3) (n.),ISPRA,2020
+bbccfrp4_p,Beni culturali a rischio in aree a pericolosità da frana molto elevata P4 (%),Cultural heritage at risk in areas with very high landslide risk P4 (%),ISPRA,2020
+bbccfrp3_p,Beni culturali a rischio in aree a pericolosità da frana elevata P3 (%),Cultural heritage at risk in areas with high landslide risk P3 (%),ISPRA,2020
+bbccfrp2_p,Beni culturali a rischio in aree a pericolosità da frana media P2 (%),Cultural heritage at risk in areas with medium landslide risk P2 (%),ISPRA,2020
+bbccfrp1_p,Beni culturali a rischio in aree a pericolosità da frana moderata P1 (%),Cultural heritage at risk in areas with moderate landslide risk P1 (%),ISPRA,2020
+bbccfraa_p,Beni culturali a rischio in aree di attenzione AA (%),Cultural heritage at risk in AA attention areas (%),ISPRA,2020
+bbccfrp34p,Beni culturali a rischio in aree a pericolosità da frana molto elevata e molto elevata (P4 + P3) (%),Cultural heritage at risk in areas with very high and very high landslide risk (P4 + P3) (%),ISPRA,2020
