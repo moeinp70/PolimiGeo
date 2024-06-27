@@ -7,7 +7,7 @@ This project provides a dashboard for analyzing flood risk data in Italy. It all
 
 - View flood risk data on an interactive map
 - Generate reports in CSV and Excel formats
-- Visualize data using a pie chart
+- Visualize data using charts
 - User authentication with different roles (user and admin)
 
 ## Requirements
@@ -28,6 +28,8 @@ This project provides a dashboard for analyzing flood risk data in Italy. It all
   - xlsxwriter
   - matplotlib
   - fpdf
+  - jupyter
+  - ipykernel
 
 ## Setup
 
@@ -46,28 +48,40 @@ This project provides a dashboard for analyzing flood risk data in Italy. It all
     pip install -r requirements.txt
     ```
 
-3. **Setup PostgreSQL database:**
+3. **Install Jupyter Notebook and IPython Kernel:**
+
+    ```bash
+    pip install jupyter ipykernel
+    python -m ipykernel install --user --name=venv
+    ```
+
+4. **Setup PostgreSQL database:**
 
     - Create a new PostgreSQL database named `flood_se`.
     - Update the `get_db_connection` function in `functions.py` if your database credentials are different.
 
-4. **Run the `fetch_db_final.py` script to populate the database:**
+5. **Run the `fetch_db_final.py` script to populate the database:**
 
     ```bash
     python fetch_db_final.py
     ```
 
-5. **Run the Flask application (`app.py`):**
+6. **Run the Flask application (`app.py`):**
 
     ```bash
     python app.py
     ```
 
-6. **Run the Jupyter Notebook for the dashboard:**
+7. **Run the Jupyter Notebook for the dashboard:**
 
     ```bash
-    jupyter notebook dashboard.ipynb
+    jupyter notebook
     ```
+
+8. **Select the Virtual Environment Kernel:**
+
+    - Open `dashboard.ipynb` in Jupyter Notebook.
+    - Click on `Kernel` > `Change kernel` > `venv`.
 
 ## Usage
 
