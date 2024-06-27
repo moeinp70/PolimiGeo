@@ -1,0 +1,13 @@
+Flask
+psycopg2
+pandas
+geopandas
+folium
+branca
+requests
+werkzeug
+IPython
+plotly
+xlsxwriter
+matplotlib
+fpdf
