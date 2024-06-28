@@ -168,6 +168,13 @@ def create_map(level, specific=None):
     # Create a Folium map centered on Italy
     m = folium.Map(location=[41.8719, 12.5674], zoom_start=6)
     
+        # Add different tile layers
+    folium.TileLayer('openstreetmap').add_to(m)
+    folium.TileLayer('stamenterrain').add_to(m)
+    folium.TileLayer('stamenwatercolor').add_to(m)
+    folium.TileLayer('cartodbpositron').add_to(m)
+    folium.TileLayer('cartodbdark_matter').add_to(m)
+
     if specific:
         # Filter for specific selection if provided
         merged_gdf = merged_gdf[merged_gdf[merge_column] == specific]
