@@ -166,14 +166,13 @@ def create_map(level, specific=None):
     colormap.caption = 'Percentage of Area at High Flood Risk'
     
     # Create a Folium map centered on Italy
-    m = folium.Map(location=[41.8719, 12.5674], zoom_start=6)
     
+    m = folium.Map(tiles=None,location=[41.8719, 12.5674], zoom_start=6)
+
         # Add different tile layers
-    folium.TileLayer('openstreetmap').add_to(m)
-    folium.TileLayer('stamenterrain').add_to(m)
-    folium.TileLayer('stamenwatercolor').add_to(m)
-    folium.TileLayer('cartodbpositron').add_to(m)
-    folium.TileLayer('cartodbdark_matter').add_to(m)
+    # Add OpenStreetMap tile layer
+    folium.TileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', name='OpenTopoMap', attr='Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)').add_to(m)
+    folium.TileLayer('openstreetmap',name='OpenStreetMap', control=True).add_to(m)
 
     if specific:
         # Filter for specific selection if provided
@@ -185,7 +184,7 @@ def create_map(level, specific=None):
             'fillColor': colormap(feature['properties']['risk_percentage']),
             'color': 'black',
             'weight': 1,
-            'fillOpacity': 0.3,
+            'fillOpacity': 0.4,
         }
 
     folium.GeoJson(
