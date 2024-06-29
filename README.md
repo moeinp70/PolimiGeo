@@ -8,7 +8,7 @@
 </p>
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; text-align: center;">
-    <div style="flex: 0 0 23%; box-sizing: border-box; padding: 1em; margin-bottom: 2em;">
+    <div style="flex: 10% 0 23%; box-sizing: border-box; padding: 1em; margin-bottom: 2em;">
         <img src="images/moein.jpg" alt="Moein Zadeh" style="width: 100%; border-radius: 50%;" />
         <h3>Moein Zadeh</h3>
         <p>
@@ -22,7 +22,7 @@
             <a href="https://www.linkedin.com/in/moein-peyghambarzadeh/"><i class="fab fa-linkedin"></i> LinkedIn</a>
         </p>
     </div>
-    <div style="flex: 0 0 23%; box-sizing: border-box; padding: 1em; margin-bottom: 2em;">
+    <div style="flex: 10% 0 23%; box-sizing: border-box; padding: 1em; margin-bottom: 2em;">
         <img src="images/saeid.jpg" alt="Saeed Mehdizadeh" style="width: 100%; border-radius: 50%;" />
         <h3>Saeed Mehdizadeh</h3>
         <p>[Include Saeed's bio here]</p>
