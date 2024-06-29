@@ -9,7 +9,7 @@
 
 <table align="center" style="width:100%" >
   <tr>
-    <td style="text-align:center; width:50%">
+    <td style="width:300px;" style="text-align:center; width:50%">
       <img src="images/moein.jpg" alt="Moein Zadeh" style="width: 150px; height: 150px; border-radius: 50%;" />
       <h3>Moein Zadeh</h3>
 									<p>
