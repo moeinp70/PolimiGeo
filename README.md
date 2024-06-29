@@ -26,7 +26,10 @@
     <td style="text-align:center; width:50%">
       <img src="images/saeid.jpg" alt="Saeed Mehdizadeh" style="width: 150px; height: 150px; border-radius: 50%;" />
       <h3>Saeed Mehdizadeh</h3>
-      <p>[Include Saeed's bio here]</p>
+      <p>										
+        Born in Bijar , Iran <br>
+        Remote sesning expert ... .<br>
+        Main Hubby: Videography  </p>
       <p>
           <a href="mailto:saeed.mehdizadeh@mail.polimi.it"><i class="fas fa-envelope"></i> Mail</a> |
           <a href="https://github.com/saeedmehdizadeh" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
@@ -37,8 +40,10 @@
   <tr>
     <td style="text-align:center; width:50%">
       <img src="images/vanessa.jpg" alt="Vanessa" style="width: 150px; height: 150px; border-radius: 50%;" />
-      <h3>Vanessa</h3>
-      <p>[Include Vanessa's bio here]</p>
+      <h3>Vanessa Goletti</h3>
+      <p>										Born in Italy, Viterbo <br>
+										Bcs in Management engineering.<br>
+										Gym and climbing</p>
       <p>
           <a href="mailto:vanessa@mail.polimi.it"><i class="fas fa-envelope"></i> Mail</a> |
           <a href="https://github.com/vanessa" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
@@ -48,7 +53,9 @@
     <td style="text-align:center; width:50%">
       <img src="images/hadi.jpg" alt="Hadi Kheiri" style="width: 150px; height: 150px; border-radius: 50%;" />
       <h3>Hadi Kheiri</h3>
-      <p>[Include Hadi's bio here]</p>
+      <p>										Born in Tabriz , Iran <br>
+										Remote sesning expert ... .<br>
+										Main Hubby: Videography </p>
       <p>
           <a href="mailto:hadi.kheiri@mail.polimi.it"><i class="fas fa-envelope"></i> Mail</a> |
           <a href="https://github.com/Hadikheiri" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
