@@ -1,4 +1,7 @@
 # ES-project
+<p>This project provides an analysis of flood risk across various administrative levels in Italy, including provinces, regions, and municipalities. The data is sourced from the IdroGEO API PIR (Hazards and risk indicators).</p>
+
+## Meet Our Team
 
 <p align="center">
     <strong>Four Geoinformatics Engineering students at Politecnico di Milano</strong>
@@ -21,7 +24,7 @@
       </p>
     </td>
     <td style="text-align:center; width:50%">
-      <img src="images/saeed.jpg" alt="Saeed Mehdizadeh" style="width: 150px; height: 150px; border-radius: 50%;" />
+      <img src="images/saeid.jpg" alt="Saeed Mehdizadeh" style="width: 150px; height: 150px; border-radius: 50%;" />
       <h3>Saeed Mehdizadeh</h3>
       <p>[Include Saeed's bio here]</p>
       <p>
@@ -57,7 +60,9 @@
 
 # Flood Risk Analysis Project
 
-This project provides a dashboard for analyzing flood risk data in Italy. It allows users to view maps of flood risk, generate reports, and visualize data. There are two types of users: regular users and admin users. Admin users can update the database.
+This project provides a dashboard for analyzing flood risk data in Italy. It allows users to view maps of flood risk, generate reports, and visualize data. There are two types of users: regular users and admin users. Admin users can update the database. 
+
+We use 
 
 ## Features
 
