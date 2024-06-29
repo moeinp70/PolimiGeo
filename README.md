@@ -12,11 +12,11 @@
     <td style="text-align:center; width:50%">
       <img src="images/moein.jpg" alt="Moein Zadeh" style="width: 150px; height: 150px; border-radius: 50%;" />
       <h3>Moein Zadeh</h3>
-									<p>
-										Born in Iran, Qom.<br>
-										AI and Deep Learining enthusiast.<br>
-										adventure and Gardening
-									</p>
+        <p>
+            Born in Iran, Qom.<br>
+            AI and Deep Learining enthusiast.<br>
+            adventure and Gardening
+        </p>
       <p>
           <a href="mailto:seyed.peyghambar@mail.polimi.it"><i class="fas fa-envelope"></i> Mail</a> |
           <a href="https://github.com/moeinp70" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
