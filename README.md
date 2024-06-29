@@ -7,7 +7,7 @@
     <strong>Four Geoinformatics Engineering students at Politecnico di Milano</strong>
 </p>
 
-<table style="width:100%" style="width: 150px; height: 150px; border-radius: 50%;" >
+<table align="center" style="width:100%" >
   <tr>
     <td style="text-align:center; width:50%">
       <img src="images/moein.jpg" alt="Moein Zadeh" style="width: 150px; height: 150px; border-radius: 50%;" />
