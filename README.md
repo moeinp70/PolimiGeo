@@ -1,6 +1,5 @@
 # ES-project
 
-
 ## Meet Our Team
 
 <p align="center">
@@ -8,13 +7,13 @@
 </p>
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; text-align: center;">
-    <div style="flex: 10% 0 23%; box-sizing: border-box; padding: 1em; margin-bottom: 2em;">
-        <img src="images/moein.jpg" alt="Moein Zadeh" style="width: 100%; border-radius: 50%;" />
+    <div style="flex: 0 0 23%; box-sizing: border-box; padding: 1em; margin-bottom: 2em;">
+        <img src="images/moein.jpg" alt="Moein Zadeh" style="width: 150px; height: 150px; border-radius: 50%;" />
         <h3>Moein Zadeh</h3>
         <p>
             Born in Iran, Qom.<br>
             BSc in Computer Engineering at Shahab-Danesh University In Iran.<br>
-            AI and Deep Learning enthusiast. Main hobby: Gardening
+            AI and Deep Learning enthusiast. Main hobby: Gardening.
         </p>
         <p>
             <a href="mailto:seyed.peyghambar@mail.polimi.it"><i class="fas fa-envelope"></i> Mail</a> |
@@ -22,8 +21,8 @@
             <a href="https://www.linkedin.com/in/moein-peyghambarzadeh/"><i class="fab fa-linkedin"></i> LinkedIn</a>
         </p>
     </div>
-    <div style="flex: 10% 0 23%; box-sizing: border-box; padding: 1em; margin-bottom: 2em;">
-        <img src="images/saeid.jpg" alt="Saeed Mehdizadeh" style="width: 100%; border-radius: 50%;" />
+    <div style="flex: 0 0 23%; box-sizing: border-box; padding: 1em; margin-bottom: 2em;">
+        <img src="images/saeid.jpg" alt="Saeed Mehdizadeh" style="width: 150px; height: 150px; border-radius: 50%;" />
         <h3>Saeed Mehdizadeh</h3>
         <p>[Include Saeed's bio here]</p>
         <p>
@@ -33,7 +32,7 @@
         </p>
     </div>
     <div style="flex: 0 0 23%; box-sizing: border-box; padding: 1em; margin-bottom: 2em;">
-        <img src="images/vanessa.jpg" alt="Vanessa" style="width: 100%; border-radius: 50%;" />
+        <img src="images/vanessa.jpg" alt="Vanessa" style="width: 150px; height: 150px; border-radius: 50%;" />
         <h3>Vanessa</h3>
         <p>[Include Vanessa's bio here]</p>
         <p>
@@ -43,7 +42,7 @@
         </p>
     </div>
     <div style="flex: 0 0 23%; box-sizing: border-box; padding: 1em; margin-bottom: 2em;">
-        <img src="images/hadi.jpg" alt="Hadi Kheiri" style="width: 100%; border-radius: 50%;" />
+        <img src="images/hadi.jpg" alt="Hadi Kheiri" style="width: 150px; height: 150px; border-radius: 50%;" />
         <h3>Hadi Kheiri</h3>
         <p>[Include Hadi's bio here]</p>
         <p>
@@ -53,7 +52,6 @@
         </p>
     </div>
 </div>
-
 
 # Flood Risk Analysis Project
 
