@@ -9,7 +9,7 @@
 
 <table align="center" style="width:100%" >
   <tr>
-    <td style="width:300px;" style="text-align:center; width:50%">
+    <td style="text-align:center; width:50%">
       <img src="images/moein.jpg" alt="Moein Zadeh" style="width: 150px; height: 150px; border-radius: 50%;" />
       <h3>Moein Zadeh</h3>
 									<p>
@@ -19,8 +19,8 @@
 									</p>
       <p>
           <a href="mailto:seyed.peyghambar@mail.polimi.it"><i class="fas fa-envelope"></i> Mail</a> |
-          <a href="https://github.com/moeinp70"><i class="fab fa-github"></i> GitHub</a> |
-          <a href="https://www.linkedin.com/in/moein-peyghambarzadeh/"><i class="fab fa-linkedin"></i> LinkedIn</a>
+          <a href="https://github.com/moeinp70" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
+          <a href="https://www.linkedin.com/in/moein-peyghambarzadeh/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
       </p>
     </td>
     <td style="text-align:center; width:50%">
@@ -29,8 +29,8 @@
       <p>[Include Saeed's bio here]</p>
       <p>
           <a href="mailto:saeed.mehdizadeh@mail.polimi.it"><i class="fas fa-envelope"></i> Mail</a> |
-          <a href="https://github.com/saeedmehdizadeh"><i class="fab fa-github"></i> GitHub</a> |
-          <a href="https://www.linkedin.com/in/saeed-mehdizadeh/"><i class="fab fa-linkedin"></i> LinkedIn</a>
+          <a href="https://github.com/saeedmehdizadeh" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
+          <a href="https://www.linkedin.com/in/saeed-mehdizadeh/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
       </p>
     </td>
   </tr>
@@ -41,8 +41,8 @@
       <p>[Include Vanessa's bio here]</p>
       <p>
           <a href="mailto:vanessa@mail.polimi.it"><i class="fas fa-envelope"></i> Mail</a> |
-          <a href="https://github.com/vanessa"><i class="fab fa-github"></i> GitHub</a> |
-          <a href="https://www.linkedin.com/in/vanessa/"><i class="fab fa-linkedin"></i> LinkedIn</a>
+          <a href="https://github.com/vanessa" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
+          <a href="https://www.linkedin.com/in/vanessa/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
       </p>
     </td>
     <td style="text-align:center; width:50%">
@@ -51,8 +51,8 @@
       <p>[Include Hadi's bio here]</p>
       <p>
           <a href="mailto:hadi.kheiri@mail.polimi.it"><i class="fas fa-envelope"></i> Mail</a> |
-          <a href="https://github.com/hadi.kheiri"><i class="fab fa-github"></i> GitHub</a> |
-          <a href="https://www.linkedin.com/in/hadi-kheiri/"><i class="fab fa-linkedin"></i> LinkedIn</a>
+          <a href="https://github.com/Hadikheiri" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
+          <a href="https://www.linkedin.com/in/hadi-kheiri" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
       </p>
     </td>
   </tr>
