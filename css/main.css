@@ -1,0 +1,173 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
+
+body.homepage.is-preload {
+    background: #f5f7fa;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    color: #52575c;
+    line-height: 1.75em;
+    font-size: 14pt;
+}
+
+h2 {
+    font-size: 2em;
+    line-height: 1.25em;
+    font-weight: 300;
+    color: #52575c;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.5em;
+    line-height: 1.5em;
+    font-weight: 300;
+    color: #52575c;
+}
+
+p {
+    color: #52575c;
+}
+
+.wrapper {
+    margin: 0 auto;
+    padding: 1em 0;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.15);
+
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+#main {
+    padding: 1em 0;
+}
+
+.row.features {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.col-3 {
+    flex: 0 0 23%;
+    box-sizing: border-box;
+    padding: 1em;
+    margin-bottom: 0em;
+    text-align: center;
+}
+
+.col-12-narrower {
+    flex: 0 0 100%;
+}
+
+.image-wrapper {
+    position: relative;
+    margin-bottom: 1em;
+}
+
+.image-wrapper .image {
+    position: relative;
+    z-index: 2;
+}
+
+.image-wrapper .image img {
+    display: block;
+    width: 100%;
+}
+
+.bioicons {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding-left: 0;
+}
+
+.bioicons li {
+    margin: 0 0.5em;
+}
+
+.bioicons li a {
+    display: inline-block;
+    background: #fabf9c;
+    width: 2.5em;
+    height: 2.5em;
+    line-height: 2.5em;
+    text-align: center;
+    border-radius: 100%;
+    color: white;
+    font-size: 1.25em;
+    text-decoration: none;
+}
+
+#footer-wrapper {
+    background: #fabf9c;
+    position: relative;
+    color: #000000;
+    text-align: center;
+    padding: 1em 0 1em 0;
+}
+
+.footer-title {
+    color: #000000;
+    font-size: 1em;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.footer-text, .footer-link, .footer-names {
+    color: #000000;
+}
+
+.footer-link {
+    border-bottom: dotted 1px #FFFFFF;
+}
+
+#foot {
+    position: relative;
+    color: #fff;
+    text-align: center;
+    z-index: 1;
+}
+
+#foot h2 {
+    color: #fff;
+    font-size: 3em;
+}
+
+#foot p {
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
+
+#foot .button {
+    background: #101010;
+    border-color: rgba(255, 255, 255, 0);
+    color: #fabf9c;
+    font-size: 1em;
+    margin-top: 1em;
+    font-weight: bold;
+}
+
+#foot .button:hover {
+    border-color: rgba(255, 255, 255, 0.75);
+    background-color: rgba(255, 255, 255, 0.15);
+    color: #fff;
+}
+
+#foot a {
+    color: #fff;
+    border-color: rgba(255, 255, 255, 0.5);
+}
+
+#foot a:hover {
+    border-color: rgba(255, 255, 255, 0);
+}
+
+#foot ul.actions {
+    padding-top: 1em;
+    list-style: none;
+    padding-left: 0;
+}
