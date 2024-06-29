@@ -55,7 +55,7 @@
       <h3>Hadi Kheiri</h3>
       <p>										Born in Tabriz , Iran <br>
 										Bcs in Geoinformatics eng.<br>
-										Main Hubby: Gym and Traveling  </p>
+										Gym and Traveling  </p>
       <p>
           <a href="mailto:hadi.kheiri@mail.polimi.it"><i class="fas fa-envelope"></i> Mail</a> |
           <a href="https://github.com/Hadikheiri" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
