@@ -33,7 +33,7 @@
       <p>
           <a href="mailto:saeed.mehdizadeh@mail.polimi.it"><i class="fas fa-envelope"></i> Mail</a> |
           <a href="https://github.com/saeedmehdizadeh" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
-          <a href="https://www.linkedin.com/in/saeed-mehdizadeh/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+          <a href="https://www.linkedin.com/in/saeed-mehdizadeh-a7099320b/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
       </p>
     </td>
   </tr>
@@ -47,7 +47,7 @@
       <p>
           <a href="mailto:vanessa@mail.polimi.it"><i class="fas fa-envelope"></i> Mail</a> |
           <a href="https://github.com/vanessa" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
-          <a href="https://www.linkedin.com/in/vanessa/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+          <a href="https://www.linkedin.com/in/vanessa-goletti-4b252b240/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
       </p>
     </td>
     <td style="text-align:center; width:50%">
