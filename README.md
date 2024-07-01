@@ -14,8 +14,8 @@
       <h3>Moein Zadeh</h3>
         <p>
             Born in Iran, Qom.<br>
-            AI and Deep Learining enthusiast.<br>
-            adventure and Gardening
+            AI and Deep Learning enthusiast.<br>
+            Adventure and Gardening
         </p>
       <p>
           <a href="mailto:seyed.peyghambar@mail.polimi.it"><i class="fas fa-envelope"></i> Mail</a> |
@@ -45,8 +45,8 @@
 										Bcs in Management engineering.<br>
 										Gym and climbing</p>
       <p>
-          <a href="mailto:vanessa@mail.polimi.it"><i class="fas fa-envelope"></i> Mail</a> |
-          <a href="https://github.com/vanessa" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
+          <a href="mailto:Vanessa.goletti@mail.polimi.it"><i class="fas fa-envelope"></i> Mail</a> |
+          <a href="https://github.com/Vanessabd" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
           <a href="https://www.linkedin.com/in/vanessa-goletti-4b252b240/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
       </p>
     </td>
