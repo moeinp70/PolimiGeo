@@ -1,4 +1,4 @@
-# ES-project
+# SoftwareEngineering-project
 <p>This project provides an analysis of flood risk across various administrative levels in Italy, including provinces, regions, and municipalities. The data is sourced from the IdroGEO API PIR (Hazards and risk indicators), and the shapefiles are acquired from ISTAT</p>
 
 ## Meet Our Team
